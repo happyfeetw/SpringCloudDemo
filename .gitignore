@@ -2,3 +2,4 @@
 /spring-cloud-api/target/
 /spring-cloud-consumer-dept-80/target/
 /spring-cloud-provider-dept-8001/target/
+*.iml
