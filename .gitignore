@@ -1,5 +1,7 @@
 # Project exclude paths
 /spring-cloud-api/target/
-/spring-cloud-consumer-dept-80/target/
+/spring-cloud-consumer-dept-8000/target/
 /spring-cloud-provider-dept-8001/target/
 *.iml
+*.idea
+*.DS_Store
