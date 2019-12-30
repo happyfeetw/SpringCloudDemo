@@ -10,7 +10,7 @@
     <modules>
         <module>spring-cloud-api</module>
         <module>spring-cloud-provider-dept-8001</module>
-        <module>spring-cloud-consumer-dept-80</module>
+        <module>spring-cloud-consumer-dept-8000</module>
     </modules>
 
     <!--打包方式-->
