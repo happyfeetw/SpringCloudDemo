@@ -11,6 +11,7 @@
         <module>spring-cloud-api</module>
         <module>spring-cloud-provider-dept-8001</module>
         <module>spring-cloud-consumer-dept-8000</module>
+        <module>spring-cloud-eureka-7001</module>
     </modules>
 
     <!--打包方式-->
